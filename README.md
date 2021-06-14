@@ -2,7 +2,7 @@
 - 👀 I’m interested in iOS app developing
 - 🌱 I’m currently learning SwiftUI
 - 📫 How to reach me: 
-tg    - nik_dany
+tg    - @nik_dany,
 mail  - nikita.danylchenko@gmail.com
 
 <!---
