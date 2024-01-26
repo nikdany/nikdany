@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @nikdany
 - 👀 I’m interested in iOS app developing
-- 🌱 I’m currently learning SwiftUI
+- 🌱 Have 4 years of experience in iOS developing
 - 📫 How to reach me: 
-tg    - @nik_dany,
-mail  - nikita.danylchenko@gmail.com
+mail  - mydanylch@gmail.com
 
 <!---
 nikdany/nikdany is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
