@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nikdany
+- 👋 Hi, I’m Mykyta
 - 👀 I’m interested in iOS app developing
 - 🌱 Have 4 years of experience in iOS developing
 - 📫 How to reach me: 
